@@ -3,7 +3,7 @@
 💻 **Aspiring Front-End Developer** |  **Passionate about computer science ** | 📖 **Deep thinker & lifelong learner**  
 
 ## About Me 🌱  
-- 🚀 Learning **React.js, JavaScript, and Tailwind CSS**  
+- 🚀 Learning **Frontend Development**  
 - 📚 Fascinated by **philosophy, literature, and critical thinking**  
 - 🔍 Exploring **internship opportunities in front-end development**  
 - ✍️ Writing and reflecting on thoughts, because I love questioning everything  
